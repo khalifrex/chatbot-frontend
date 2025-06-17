@@ -23,7 +23,7 @@ export default function Home() {
           transition={{ delay: 0.2, duration: 0.5 }}
           className="text-lg md:text-xl text-gray-600 dark:text-gray-300 max-w-2xl mb-8"
         >
-          Your personal AI assistant built with OpenAI & Next.js. Chat smart. No login required.
+          Your personal AI assistant built by khalifrex. Chat smart. No login required.
         </motion.p>
 
         <motion.a
